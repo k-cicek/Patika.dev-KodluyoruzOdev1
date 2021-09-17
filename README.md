@@ -1,6 +1,6 @@
 ## Padika.dev | Kodluyoruz Ödev1
 
-## Bu uygulamada;
+### Bu uygulamada;
 
 - HTML arayüz oluşturma
 - CSS ile şekillendirme
