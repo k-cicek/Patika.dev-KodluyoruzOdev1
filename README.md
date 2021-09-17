@@ -1,4 +1,4 @@
-# Padika.dev | Kodluyoruz Ödev1
+## Padika.dev | Kodluyoruz Ödev1
 
 ## Bu uygulamada;
 
